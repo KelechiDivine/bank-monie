@@ -278,10 +278,98 @@ body{
     height: 500%;
 }
 
+.our{
+    margin-top: -40%;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 26px;
+    letter-spacing: 0.12em;
+    color: #808080;
+    text-transform: uppercase;
+}
+
+.seamless{
+    margin-top: 20px;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: -0.02em;
+    color: #002433;
+}
+
+.great{
+    margin-top: 20px;
+    margin-left: 40%;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: -0.02em;
+    color: #002433;
+}
+
+.as-a-bank{
+    margin-left: 40%;
+    margin-top: 22px;
+}
+
+.care{
+    margin-left: 40%;
+    font-family: 'Gelion',sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: -0.02em;
+    color: #002433;
+}
+
+.availability{
+    text-transform: uppercase;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 26px;
+    letter-spacing: 0.12em;
+    color: #808080;
+    margin-left: 40%;
+    margin-top: -35%;
+}
+
+.image-settlement{
+    margin-top: 20px;
+}
+
+.calling-man{
+    margin-top: 35%;
+}
+
+.settlement{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: -0.02em;
+    color: #002433;
+}
+
 .pos{
     margin-left: 30%;
     margin-top: -30%;
 }
+
+.pos1{
+    margin-left: 30%;
+    margin-top: 20%;
+}
+
 
 .we-give{
     margin-top: 52px;

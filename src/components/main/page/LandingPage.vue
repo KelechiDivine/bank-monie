@@ -122,7 +122,21 @@
         <p class="network">100% network functionality</p>
         <h1 class="excellent">Excellent <span class="text-blue-500"> Network</span></h1>
         <h1 class="performance">Performance</h1>
-        <img class="when-you" src="../image/when-you-use.png"/>
+        <img class="when-you" src="../image/when-you-use.png" alt=""/>
+
+        <img class="pos1" src="../image/pos.png" alt=""/>
+        <p class="our">our agent are profitable</p>
+        <h1 class="seamless">Seamless <span class="text-green-400">Instant</span></h1>
+        <h1 class="settlement">Settlement</h1>
+        <img class="image-settlement" src="../image/we-give-instance.png" alt="">
+
+        <img class="calling-man" src="../image/man-making-phone-call.png" alt=""/>
+        <p class="availability">we are available 24 hours 7 days a week</p>
+        <h1 class="great">Great <span class="text-blue-500"> Customer</span></h1>
+        <h1 class="care"><span class="text-blue-500"> Care</span> & Support</h1>
+
+        <img class="as-a-bank" src="../image/as-a-bank.png">
+
 
       </div>
     </div>
