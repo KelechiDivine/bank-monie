@@ -24,7 +24,7 @@
       </div>
 
       <div class="over-head-image absolute">
-        <img src="../image/circle.png"/>
+        <img src="../image/circle.png" alt=""/>
       </div>
 
       <div class="holder absolute"></div>
@@ -90,7 +90,9 @@
       <h1 class="another-service">Service Name</h1>
       <img class="image-" src="../image/bankMonie.png" alt=""/>
 
-      <img class="woman-with-a-bag" src="../image/woman-with-a-bag.png" alt=""/>
+      <div>
+        <img class="woman-with-a-bag" src="../image/woman-with-a-bag.png" alt=""/>
+      </div>
 
       <img class="light-green" src="../image/light-green.png" alt=""/>
       <h1 class="digital-banking">Digital <span class="text-green-600">Banking</span></h1>
@@ -102,8 +104,27 @@
       <img class="imagerunderight" src="../image/bankMonie.png" alt=""/>
 
       <img class="black-box" src="../image/black-box.png" alt="">
+      <h1 class="last-service-name">Service Name</h1>
+      <img class="imageright" src="../image/bankMonie.png" alt=""/>
 
+      <div class="fourth-section">
+        <h1 class="why">why you should be an agent</h1>
+        <h1 class="with">with Bank<span class="text-blue-500">Monie</span></h1>
+        <p class="our-agents">our agents profitable</p>
 
+        <h1 class="fiar">Fiar Pricings,</h1>
+        <h1 class="low">Low <span class="text-green-500">Commissions</span></h1>
+
+        <img class="we-give" src="../image/we-give.png" alt=""/>
+        <img class="pos" src="../image/pos.png" alt=""/>
+
+        <img class="network-image" src="../image/two-women.png" alt=""/>
+        <p class="network">100% network functionality</p>
+        <h1 class="excellent">Excellent <span class="text-blue-500"> Network</span></h1>
+        <h1 class="performance">Performance</h1>
+        <img class="when-you" src="../image/when-you-use.png"/>
+
+      </div>
     </div>
 
   </body>

@@ -225,11 +225,123 @@ body{
     margin-top: 50px;
 }
 
+.network{
+    text-transform: uppercase;
+    margin-left: 35%;
+    margin-top: -25%;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 26px;
+    letter-spacing: 0.12em;
+    color: #808080;
+}
+
+.excellent{
+    margin-top: 32px;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    margin-left: 35%;
+    letter-spacing: -0.02em;
+    color: #002433;
+}
+
+.when-you{
+    margin-top: 12px;
+    margin-left: 35%;
+}
+
+.performance{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    margin-top: 2px;
+    margin-left: 35%;
+    letter-spacing: -0.02em;
+    color: #002433;
+}
+
+.network-image{
+    margin-top: 12%;
+}
+
 .third-section{
     position: absolute;
     margin-top: 94.9%;
     width: 100%;
-    height: 300%;
+    height: 500%;
+}
+
+.pos{
+    margin-left: 30%;
+    margin-top: -30%;
+}
+
+.we-give{
+    margin-top: 52px;
+}
+
+.why{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: -0.03em;
+    color: #012169;
+}
+
+.with{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: -0.03em;
+    color: #012169;
+}
+
+.fourth-section{
+    margin-left: 25%;
+}
+
+.our-agents{
+    margin-top: 15%;
+    font-family: 'Gelion',sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 26px;
+    letter-spacing: 0.12em;
+    color: #808080;
+    text-transform: uppercase;
+}
+
+.fiar{
+    margin-top: 52px;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: -0.02em;
+    color: #002433;
+}
+
+.low{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 43px;
+    letter-spacing: -0.02em;
+    color: #002433;
 }
 
 .inside-dollar{
@@ -247,7 +359,23 @@ body{
     margin-top: 45%;
     width: 100%;
     background: linear-gradient(180deg, #F0FAFF -20%, #F5FCFF 0.75%, #FFFFFF 78.04%);
-    height: 106%;
+    height: 500%;
+}
+
+.last-service-name{
+    margin-left: 65%;
+    margin-top: 12px;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 48px;
+    letter-spacing: -0.03em;
+    color: #002433;
+}
+
+.black-box{
+    margin-left: 65%;
 }
 
 .bank-image{
