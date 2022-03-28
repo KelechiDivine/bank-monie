@@ -1,5 +1,5 @@
 body{
-    background: url("../../../../../bank-monie/src/components/main/image/background.png");
+    background: url("../image/background.png");
 }
 
 .navbar-div{
@@ -37,13 +37,11 @@ body{
     line-height: 26px;
     letter-spacing: -0.02em;
     color: #808080;
-
 }
 
 .man-image{
     position: absolute;
     width: 712px;
-    /*background: ;*/
     height: 715px;
     margin-left: 30%;
     margin-top: 10%;
@@ -61,7 +59,7 @@ body{
     letter-spacing: -0.02em;
 }
 
-.hom{
+.home{
     font-family: 'Gelion', sans-serif;
     font-style: normal;
     font-weight: 600;
@@ -116,9 +114,6 @@ body{
     backdrop-filter: blur(20px);
     border-radius: 12px;
 }
-.light-blue{
-    /*margin-top: 1%;*/
-}
 
 .first-header{
     margin-top: 10%;
@@ -132,15 +127,124 @@ body{
     color: #012169;
 }
 
+.image-{
+    margin-left: 21%;
+    margin-top: -42px;
+}
+
+.woman-with-a-bag{
+    margin-left: 40%;
+    margin-top: -45%;
+}
+
+.digital-banking{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 48px;
+    letter-spacing: -0.03em;
+    color: #002433;
+    margin-left: 65%;
+    margin-top: 25px;
+}
+
+.imageright{
+    margin-left: 61%;
+    margin-top: -1.5%;
+}
+
+.imagerunderight{
+    margin-left: 61.3%;
+    margin-top: -42px;
+}
+
+.left-service-name-second-line{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    margin-left: 65%;
+    margin-top: 12px;
+    line-height: 48px;
+    letter-spacing: -0.03em;
+    color: #002433;
+}
+
+.blueBox1{
+    margin-left: 65%;
+    margin-top: 1px;
+}
+
+.light-green{
+    margin-left: 65%;
+    margin-top: -26.6%;
+}
+
+.blueBox{
+    margin-left: 25%;
+}
+
+.another-service{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 48px;
+    letter-spacing: -0.03em;
+    color: #002433;
+    margin-left: 25%;
+    margin-top: 12px;
+}
+
+.service-name{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 48px;
+    letter-spacing: -0.03em;
+    color: #002433;
+    margin-left: 25%;
+    margin-top: 12px;
+}
+
+.greenBox{
+    margin-left: 25%;
+}
+
+.agency{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 48px;
+    letter-spacing: -0.03em;
+    color: #002433;
+    margin-left: 25%;
+    margin-top: 50px;
+}
+
 .third-section{
     position: absolute;
     margin-top: 94.9%;
     width: 100%;
+    height: 300%;
+}
+
+.inside-dollar{
+    margin-left: 26%;
+    margin-top: -12px;
+}
+
+.laptop-image{
+    margin-left: 25.7%;
+    margin-top: -37px;
 }
 
 .second-section{
     position: absolute;
-    margin-top: 49%;
+    margin-top: 45%;
     width: 100%;
     background: linear-gradient(180deg, #F0FAFF -20%, #F5FCFF 0.75%, #FFFFFF 78.04%);
     height: 106%;
@@ -182,9 +286,19 @@ body{
     height: 495px;
 }
 
+.dollar{
+    margin-left: 26.2%;
+    margin-top: -1%;
+}
+
+.light-blue{
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
 .green-image{
-    margin-top: -55%;
-    margin-left: 134%;
+    margin-top: -59%;
+    margin-left: 129%;
     clip: rect(0px,51px, 45px,0px);
 }
 
@@ -223,7 +337,6 @@ body{
     background-color: #b9d9ee;
     border-radius: 15px;
 }
-
 
 .btn-get-started {
     margin-top: -10%;

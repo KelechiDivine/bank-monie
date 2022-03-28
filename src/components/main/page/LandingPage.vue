@@ -75,6 +75,34 @@
       <h1 class="first-header">Explore our <span class="text-blue-400">Services</span></h1>
 
       <img class="light-blue" src="../image/light-blue.png" alt=""/>
+      <img class="laptop-image" src="../image/laptop.png" alt=""/>
+      <img class="dollar" src="../image/dollar.png" alt=""/>
+      <img class="inside-dollar" src="../image/circle-blue.png" alt="">
+
+      <h1 class="agency">Agency Banking</h1>
+      <img class="image-" src="../image/bankMonie.png" alt=""/>
+
+      <img class="greenBox" src="../image/greenBox.png" alt="">
+      <h1 class="service-name">Service Name</h1>
+      <img class="image-" src="../image/bankMonie.png" alt=""/>
+
+      <img class="blueBox" src="../image/blueBox.png" alt="">
+      <h1 class="another-service">Service Name</h1>
+      <img class="image-" src="../image/bankMonie.png" alt=""/>
+
+      <img class="woman-with-a-bag" src="../image/woman-with-a-bag.png" alt=""/>
+
+      <img class="light-green" src="../image/light-green.png" alt=""/>
+      <h1 class="digital-banking">Digital <span class="text-green-600">Banking</span></h1>
+      <img class="imageright" src="../image/bankMonie.png" alt=""/>
+
+
+      <img class="blueBox1" src="../image/blueBox.png" alt="">
+      <h1 class="left-service-name-second-line">Service Name</h1>
+      <img class="imagerunderight" src="../image/bankMonie.png" alt=""/>
+
+      <img class="black-box" src="../image/black-box.png" alt="">
+
 
     </div>
 
