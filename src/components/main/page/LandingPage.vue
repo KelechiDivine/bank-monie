@@ -46,7 +46,7 @@
       </div>
     </div>
 
-    <div class="second-section mt-64 bg-white ">
+    <div class="second-section mt-64 ">
 
       <div class="w-full relative">
         <h1 class=" absolute header">Upgrade your <span class="text-blue-700">Business</span></h1>
@@ -66,14 +66,16 @@
         <img class="move-center-image" src="../image/two-women.png" alt="">
         <img class="pos-image" src="../image/pos-image.png" alt=""/>
         <img class="woman-with-a-glass" src="../image/woman-with-a-glass.png" alt=""/>
-        <img class="ml-64 small-image" src="../image/small-blue-image.png" />
+        <img class="ml-64 small-image" src="../image/small-blue-image.png"  alt=""/>
         <img class="box-image" src="../image/green-box.png" alt=""/>
       </div>
+    </div>
 
-      <div class="third-section">
-        <h1>Explore our <span class="text-blue-400">Services</span></h1>
+    <div class="third-section bg-white">
+      <h1 class="first-header">Explore our <span class="text-blue-400">Services</span></h1>
 
-      </div>
+      <img class="light-blue" src="../image/light-blue.png" alt=""/>
+
     </div>
 
   </body>

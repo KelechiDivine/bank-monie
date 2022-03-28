@@ -116,13 +116,34 @@ body{
     backdrop-filter: blur(20px);
     border-radius: 12px;
 }
+.light-blue{
+    /*margin-top: 1%;*/
+}
+
+.first-header{
+    margin-top: 10%;
+    margin-left: 25%;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48px;
+    letter-spacing: -0.03em;
+    color: #012169;
+}
+
+.third-section{
+    position: absolute;
+    margin-top: 94.9%;
+    width: 100%;
+}
 
 .second-section{
     position: absolute;
-    margin-top: 45%;
+    margin-top: 49%;
     width: 100%;
     background: linear-gradient(180deg, #F0FAFF -20%, #F5FCFF 0.75%, #FFFFFF 78.04%);
-    height: 110%;
+    height: 106%;
 }
 
 .bank-image{
@@ -156,7 +177,7 @@ body{
 
 .move-center-image{
     margin-left: 41%;
-    margin-top: 2%;
+    margin-top: 1%;
     width: 410px;
     height: 495px;
 }
