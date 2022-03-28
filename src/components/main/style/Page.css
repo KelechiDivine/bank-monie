@@ -1,0 +1,212 @@
+body{
+    background: url("../../../../../bank-monie/src/components/main/image/background.png");
+}
+
+.navbar-div{
+    position: absolute;
+    margin-left: 30%;
+    gap: 150px;
+    margin-top: 5%;
+}
+
+.services-navbar{
+    position: absolute;
+    margin-top: 20%;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 64px;
+    letter-spacing: -0.03em;
+    color: #012169;
+    margin-left: -25%;
+}
+
+.oauth{
+    margin-top: 50%;
+    margin-left: -25%;
+}
+
+.what-we-do{
+    margin-top: 35%;
+    margin-left: -25%;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    letter-spacing: -0.02em;
+    color: #808080;
+
+}
+
+.man-image{
+    position: absolute;
+    width: 712px;
+    /*background: ;*/
+    height: 715px;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+
+.monie{
+    position: absolute;
+    margin-left: -22%;
+    margin-top: -10px;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 38px;
+    letter-spacing: -0.02em;
+}
+
+.hom{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    color: #009CDE;
+}
+
+.other-nav{
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    background: transparent;
+    line-height: 19px;
+    letter-spacing: -0.02em;
+    color: #002433;
+}
+
+.over-head-image{
+    margin-top: 7%;
+    margin-left: 53%;
+}
+
+.holder{
+    margin-left: 70%;
+    margin-top: 20%;
+    width: 365px;
+    height: 159px;
+    background: linear-gradient(260.83deg, rgba(255, 255, 255, 0.5) -25.74%, rgba(255, 255, 255, 0.5) 108.94%);
+    backdrop-filter: blur(20px);
+    border-radius: 12px;
+}
+
+.holder1{
+    margin-left: 20%;
+    margin-top: 50%;
+    width: 365px;
+    height: 159px;
+    background: linear-gradient(260.83deg, rgba(255, 255, 255, 0.5) -25.74%, rgba(255, 255, 255, 0.5) 108.94%);
+    backdrop-filter: blur(20px);
+    border-radius: 12px;
+}
+
+.holder2{
+    margin-left: 90%;
+    margin-top: 60%;
+    width: 365px;
+    height: 159px;
+    background: linear-gradient(260.83deg, rgba(255, 255, 255, 0.5) -25.74%, rgba(255, 255, 255, 0.5) 108.94%);
+    backdrop-filter: blur(20px);
+    border-radius: 12px;
+}
+
+.second-section{
+    position: absolute;
+    margin-top: 45%;
+    width: 100%;
+    background: linear-gradient(180deg, #F0FAFF -20%, #F5FCFF 0.75%, #FFFFFF 78.04%);
+    height: 110%;
+}
+
+.bank-image{
+    margin-top: 20%;
+    margin-left: 120%;
+}
+
+.right-paragraph{
+    margin-left: 54%;
+    margin-top: 11%;
+}
+
+.move-center-image{
+    margin-left: 41%;
+    margin-top: 2%;
+    width: 470px;
+    height: 495px;
+}
+
+.green-image{
+    margin-top: -55%;
+    margin-left: 134%;
+    clip: rect(0px,51px, 45px,0px);
+}
+
+.next-line{
+    margin-left:41%;
+    margin-top: 6%;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #012169;
+}
+
+.header{
+    margin-left: 40%;
+    margin-top: 4%;
+    font-family: 'Gelion', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    letter-spacing: -0.03em;
+    color: #012169;
+}
+
+.btn {
+    margin-top: -10%;
+    height: 60px;
+    width: 200px;
+    cursor: pointer;
+    color: white;
+    background-color: #b9d9ee;
+    border-radius: 15px;
+}
+
+
+.btn-get-started {
+    margin-top: -10%;
+    height: 60px;
+    width: 200px;
+    cursor: pointer;
+    color: white;
+    background-color: #2a96dc;
+    border-radius: 6px;
+}
+
+.b-logo{
+    position: absolute;
+    margin-top: -20px;
+    margin-left: -25%;
+}
+
+.link-nav{
+    margin-left: 50px;
+    gap: 70px;
+    display: inline-flex;
+}
+
+.log-in{
+    border-radius: 20px;
+}
