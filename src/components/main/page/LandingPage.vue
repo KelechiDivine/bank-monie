@@ -134,9 +134,60 @@
         <p class="availability">we are available 24 hours 7 days a week</p>
         <h1 class="great">Great <span class="text-blue-500"> Customer</span></h1>
         <h1 class="care"><span class="text-blue-500"> Care</span> & Support</h1>
+        <img class="as-a-bank" src="../image/as-a-bank.png" alt="">
 
-        <img class="as-a-bank" src="../image/as-a-bank.png">
 
+        <img class="pos2" src="../image/pos.png" alt=""/>
+        <p class="super">super flexible to fit your needs</p>
+        <h1 class="transactions">Transactions</h1>
+        <h1 class=" channels text-green-400">Channels</h1>
+        <img class="we-give" src="../image/we-give-instance.png" alt=""/>
+
+        <div>
+          <h1 class="frequently">Frequently <span class="text-blue-500">Asked</span></h1>
+          <h1 class="Questions">Questions.</h1>
+        </div>
+
+        <div class="container">
+          <p class="what">What is <span class="text-blue-500">BankMonii</span>?</p>
+          <p class="at">At a BankMonii we provide financial services in your local community and make money while at it.</p>
+          <div class="empty-div"></div>
+          <img class="arrow-image" src="../image/arrow.png" alt="">
+        </div>
+
+        <div class="container1">
+          <p class="what">What is My Name?</p>
+          <div class="empty-div"></div>
+          <img class="arrow-image" src="../image/upsideDown.png" alt="">
+        </div>
+
+        <div class="container2">
+          <p class="what">What is My Name?</p>
+          <div class="empty-div"></div>
+          <img class="arrow-image" src="../image/upsideDown.png" alt="">
+        </div>
+
+        <div class="container3">
+          <p class="what">What is My Name?</p>
+          <div class="empty-div"></div>
+          <img class="arrow-image" src="../image/upsideDown.png" alt="">
+        </div>
+
+        <div class="container4">
+          <p class="what">What is My Name?</p>
+          <div class="empty-div"></div>
+          <img class="arrow-image" src="../image/upsideDown.png" alt="">
+        </div>
+
+        <p class="still">Still Have Questions we</p>
+        <p class="have">Have not answered?</p>
+        <button class="talk text-white">Talk to Us</button>
+
+        <div class="center">
+          <img class="bank-image-in-center" src="../image/bank.png" alt=""/>
+          <img class="run" src="../image/run.png" alt=""/>
+          <button class="us">Talk to Us</button>
+        </div>
 
       </div>
     </div>
