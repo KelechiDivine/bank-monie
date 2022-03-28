@@ -3,7 +3,7 @@
     <div class="navbar-div md:inline-flex mt-10">
       <div class="items-center">
         <a class="b-logo" href="#">
-          <img src="../../../../../bank-monie/src/components/main/image/b-logo.png" alt="">
+          <img src="../image/b-logo.png" alt="">
         </a>
         <a class="monie" href="#"><p>ank<span class="text-blue-500">monie</span></p></a>
       </div>
@@ -16,7 +16,7 @@
       </div>
 
       <div>
-        <button class="btn btn-blue">Log in</button>
+        <button class="btn btn-blue"><span class="text-black">Log in</span></button>
       </div>
 
       <div class="oauth absolute">
@@ -24,7 +24,7 @@
       </div>
 
       <div class="over-head-image absolute">
-        <img src="../../../../../bank-monie/src/components/main/image/circle.png"/>
+        <img src="../image/circle.png"/>
       </div>
 
       <div class="holder absolute"></div>
@@ -42,7 +42,7 @@
       </div>
 
       <div class="man-image">
-        <img src="../../../../../bank-monie/src/components/main/image/manSmile.png" alt=""/>
+        <img src="../image/manSmile.png" alt=""/>
       </div>
     </div>
 
@@ -54,17 +54,25 @@
       </div>
 
       <div class="left-paragraph absolute ml-64 mt-64">
-        <img class="bank-image" src="../../../../../bank-monie/src/components/main/image/bankMonie.png" alt=""/>
-        <img class="absolute green-image" src="../../../../../bank-monie/src/components/main/image/green-box.png" alt=""/>
+        <img class="bank-image" src="../image/bankMonie.png" alt=""/>
+        <img class="absolute green-image" src="../image/green-box.png" alt=""/>
       </div>
 
       <div class="right-paragraph ml-64 mt-64">
-        <img src="../../../../../bank-monie/src/components/main/image/leftimage.png" alt=""/>
+        <img src="../image/leftimage.png" alt=""/>
       </div>
 
       <div class="three-images">
-        <img class="move-center-image" src="../../../../../bank-monie/src/components/main/image/two-women.png" alt="">
-        <img src="../../../../../bank-monie/src/components/main/image/pos-image.png" alt=""/>
+        <img class="move-center-image" src="../image/two-women.png" alt="">
+        <img class="pos-image" src="../image/pos-image.png" alt=""/>
+        <img class="woman-with-a-glass" src="../image/woman-with-a-glass.png" alt=""/>
+        <img class="ml-64 small-image" src="../image/small-blue-image.png" />
+        <img class="box-image" src="../image/green-box.png" alt=""/>
+      </div>
+
+      <div class="third-section">
+        <h1>Explore our <span class="text-blue-400">Services</span></h1>
+
       </div>
     </div>
 

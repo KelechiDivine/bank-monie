@@ -130,15 +130,34 @@ body{
     margin-left: 120%;
 }
 
+.box-image{
+    margin-left: 63%;
+    margin-top: -3%;
+}
+
+.small-image{
+    margin-left: 38%;
+    margin-top: -21%;
+}
+.woman-with-a-glass{
+    margin-left: 62%;
+    margin-top: -17%;
+}
+
+.pos-image{
+    margin-top: -17%;
+    margin-left: 25%;
+}
+
 .right-paragraph{
-    margin-left: 54%;
+    margin-left: 49%;
     margin-top: 11%;
 }
 
 .move-center-image{
     margin-left: 41%;
     margin-top: 2%;
-    width: 470px;
+    width: 410px;
     height: 495px;
 }
 
