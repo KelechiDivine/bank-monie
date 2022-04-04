@@ -1,4 +1,5 @@
 <template>
+  <div class="parent">
     <div class="navbar-div md:inline-flex mt-10">
       <div class="items-center">
         <a class="b-logo" href="#">
@@ -190,6 +191,7 @@
 
       </div>
     </div>
+  </div>
 
 </template>
 
