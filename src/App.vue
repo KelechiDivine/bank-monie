@@ -3,7 +3,7 @@
 </template>
 
 <script>
-import LandingPage from "../../bank-monie/src/components/main/page/LandingPage";
+import LandingPage from '/./src/components/main/page/LandingPage.vue';
 
 export default {
   name: 'App',
