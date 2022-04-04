@@ -3,6 +3,10 @@ body{
     background: url("../image/background.png");
 }
 
+.parent{
+    width: 100%;
+}
+
 .navbar-div{
     position: absolute;
     margin-left: 30%;
